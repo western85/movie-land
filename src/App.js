@@ -6,7 +6,7 @@ import "./App.css";
 import SearchIcon from "./search.svg";
 
 //285ea709
-const API_URL = "http://www.omdbapi.com?apikey=285ea709";
+const API_URL = "https://www.omdbapi.com?apikey=285ea709";
 
 // const movie1 = {
 //   Title: "Ghostbusters",
@@ -45,7 +45,7 @@ const App = () => {
             if (e.key === "Enter") {
               e.preventDefault();
               searchMovies(searchTerm);
-              console.log(e.target.value);
+              // console.log(e.target.value);
             }
           }}
         />
