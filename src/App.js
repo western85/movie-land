@@ -5,8 +5,7 @@ import MovieCard from "./MovieCard";
 import "./App.css";
 import SearchIcon from "./search.svg";
 
-//285ea709
-const API_URL = "https://www.omdbapi.com?apikey=285ea709";
+const { REACT_APP_API_URL } = process.env;
 
 // const movie1 = {
 //   Title: "Ghostbusters",
