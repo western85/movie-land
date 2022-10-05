@@ -1,4 +1,4 @@
-# You can skip all fo the steps below and slide right into this website by clicking this link: [MovieLand](https://movie-land-theta.vercel.app/).
+# You can skip all fo the steps below and slide right into this website by clicking this link: [MovieLand](https://movie-land-e6ba3ur40-western85.vercel.app/).
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
